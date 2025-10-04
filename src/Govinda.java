@@ -1,7 +1,10 @@
 public class Govinda {
 
     public static void main(String[] args) {
-        System.out.println("Govinda Govinda");
+        for(int i = 1;i<109;i++){
+            System.out.println("Govinda Govinda");
+        }
+
     }
 
 }
