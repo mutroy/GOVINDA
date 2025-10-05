@@ -14,5 +14,7 @@ public class Chapter2_Variables {
         System.out.println(c+a); // String concatenation
 
         System.out.println("Testing Repo for Github");
+
+        System.out.println("Sum of " + a + " & " + b + " is " + (a+b));
     }
 }
